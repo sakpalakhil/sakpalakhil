@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Akhil 👋
 
-<!--
-**sakpalakhil/sakpalakhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 About Me
+I am a Technical Support Engineer with 2+ years of experience in IT support and infrastructure environments. I have hands-on experience in troubleshooting, client communication, and enterprise support operations.
 
-Here are some ideas to get you started:
+Currently, I am transitioning into DevOps and actively building practical projects to strengthen my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+- Microsoft Active Directory
+- Office 365 Administration
+- Microsoft Azure (Basics)
+- Windows Server & User Management
+- Troubleshooting & Incident Handling
+- Client Communication & Team Collaboration
+
+## 🚀 Current Focus
+- Learning DevOps fundamentals
+- Working with Docker & Kubernetes
+- Exploring CI/CD concepts
+- Building beginner-friendly DevOps projects
+
+## 📌 Goal
+To transition into a DevOps / Cloud Engineer role by building real-world projects and continuously improving my infrastructure and automation skills.
+
+---
+
+📫 Open to collaboration, learning, and new opportunities.
